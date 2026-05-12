@@ -1,0 +1,1 @@
+Day 1: Learnt SELECT and FROM basics. Ran 2 queries.

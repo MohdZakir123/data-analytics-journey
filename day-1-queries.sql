@@ -1,6 +1,6 @@
--- Day 1: SELECT and FROM basics
--- Query 1: Show all columns from customers table
+-- Day 1: SELECT and FROM
+-- Query 1: Sab columns dikhao
 SELECT * FROM customers;
 
--- Query 2: Show only name and city
+-- Query 2: Sirf naam aur city
 SELECT name, city FROM customers;
