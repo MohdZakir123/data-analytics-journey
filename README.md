@@ -9,12 +9,12 @@
 
 | Day | Topic | Queries | Key Learnings |
 |-----|-------|---------|----------------|
-| 1 | SELECT, WHERE, AND/OR, IN, BETWEEN, LIKE | 7 | Filtering data, basic conditions |
-| 2 | GROUP BY, COUNT, AVG, SUM, HAVING | 5 | Aggregating data, grouping |
-| 3 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
-| 4 | (Coming soon) Subqueries | – | – |
+| 1 & 2 | SELECT, WHERE, AND/OR, IN, BETWEEN, LIKE | 5 | Filtering data, basic conditions |
+| 3 | GROUP BY, COUNT, AVG, SUM, HAVING | 5 | Aggregating data, grouping |
+| 4 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
+| 5 | (Coming soon) Subqueries | – | – |
 
-> ✅ **Total queries written till Day 3:** 17
+> ✅ **Total queries written till Day 3:** 15
 
 ---
 
