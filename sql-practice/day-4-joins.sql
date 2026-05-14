@@ -18,3 +18,10 @@ INNER JOIN payment p ON c.customer_id = p.customer_id
 GROUP BY c.customer_id
 ORDER BY total_spent DESC
 LIMIT 10;
+
+-- 4. Films that have no inventory (LEFT JOIN with NULL check)
+SELECT f.title, i.inventory_id
+FROM film f
+LEFT JOIN inventory i ON f.film_id = i.film_id
+WHERE i.inventory_id IS NULL
+LIMIT 10;
