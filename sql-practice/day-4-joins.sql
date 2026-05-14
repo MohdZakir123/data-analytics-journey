@@ -25,3 +25,11 @@ FROM film f
 LEFT JOIN inventory i ON f.film_id = i.film_id
 WHERE i.inventory_id IS NULL
 LIMIT 10;
+
+-- 5. Top 5 actors jo who appeared in most films (JOIN + COUNT + GROUP BY)
+SELECT a.actor_id, CONCAT(a.first_name, ' ', a.last_name) AS actor_name, COUNT(fa.film_id) AS film_count
+FROM actor a
+INNER JOIN film_actor fa ON a.actor_id = fa.actor_id
+GROUP BY a.actor_id
+ORDER BY film_count DESC
+LIMIT 5;
