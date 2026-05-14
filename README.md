@@ -1,7 +1,7 @@
-# 📊 Data-Analytics-Journey
+# 📊 data-analytics-journey
 
 > Daily SQL + Python practice to become a data analyst.  
-> **Consistency > Intensity.** Green Box Everyday On GitHub.
+> **Consistency > Intensity.** Green box everyday.
 
 ---
 
@@ -9,10 +9,10 @@
 
 | Day | Topic | Queries | Key Learnings |
 |-----|-------|---------|----------------|
-| 1 & 2 | SELECT, WHERE, AND/OR, IN, BETWEEN, LIKE | 5 | Filtering data, basic conditions |
-| 3 | GROUP BY, COUNT, AVG, SUM, HAVING | 5 | Aggregating data, grouping |
-| 4 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
-| 5 | (Coming soon) Subqueries | – | – |
+| 1 | SELECT, WHERE, AND/OR, IN, BETWEEN, LIKE | 5 | Filtering data, basic conditions |
+| 2 | GROUP BY, COUNT, AVG, SUM, HAVING | 5 | Aggregating data, grouping |
+| 3 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
+| 4 | (Coming soon) Subqueries | – | – |
 
 > ✅ **Total queries written till Day 3:** 15
 
@@ -23,13 +23,15 @@
 ```
 data-analytics-journey/
 ├── sql-practice/
-│   ├── day-1 & 2-queries.sql
+│   ├── day-1-queries.sql
+│   ├── day-2-filtering.sql
 │   ├── day-3-groupby.sql
 │   ├── day-4-joins.sql
-│   └── day-5-
+│   └── ...
 ├── progress-log.md          # daily one-line log
 ├── week-1-summary.md        # weekly reflection
-└── README.md                
+└── README.md                # you're here
+```
 
 ---
 
@@ -49,9 +51,9 @@ data-analytics-journey/
 
 ---
 
-## 🧠 How I use this Repo
+## 🧠 How I use this repo
 
-1. Every day I write SQL queries on real datasets (`online_retail`, `sakila`, More Soon).
+1. Every day I write SQL queries on real datasets (`online_retail`, `sakila`, more soon).
 2. I update `progress-log.md` with one line.
 3. I commit and push – **green box appears**.
 
