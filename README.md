@@ -1,7 +1,7 @@
-# 📊 data-analytics-journey
+# 📊 Data-Analytics-Journey
 
 > Daily SQL + Python practice to become a data analyst.  
-> **Consistency > Intensity.** Green box everyday.
+> **Consistency > Intensity.** Green Box Everyday On GitHub.
 
 ---
 
@@ -23,10 +23,10 @@
 ```
 data-analytics-journey/
 ├── sql-practice/
-│   ├── day-1&2-queries.sql
+│   ├── day-1 & 2-queries.sql
 │   ├── day-3-groupby.sql
 │   ├── day-4-joins.sql
-│   └── ...
+│   └── day-5-
 ├── progress-log.md          # daily one-line log
 ├── week-1-summary.md        # weekly reflection
 └── README.md                
@@ -49,7 +49,7 @@ data-analytics-journey/
 
 ---
 
-## 🧠 How I use this repo
+## 🧠 How I use this Repo
 
 1. Every day I write SQL queries on real datasets (`online_retail`, `sakila`, More Soon).
 2. I update `progress-log.md` with one line.
