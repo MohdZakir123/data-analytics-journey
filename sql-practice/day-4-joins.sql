@@ -32,4 +32,6 @@ FROM actor a
 INNER JOIN film_actor fa ON a.actor_id = fa.actor_id
 GROUP BY a.actor_id
 ORDER BY film_count DESC
-LIMIT 5;
+LIMIT 5; 
+
+-- SQL IS NOT HARD 
