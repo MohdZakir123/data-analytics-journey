@@ -23,14 +23,13 @@
 ```
 data-analytics-journey/
 ├── sql-practice/
-│   ├── day-1-queries.sql
-│   ├── day-2-groupby.sql
-│   ├── day-3-joins.sql
+│   ├── day-1&2-queries.sql
+│   ├── day-3-groupby.sql
+│   ├── day-4-joins.sql
 │   └── ...
 ├── progress-log.md          # daily one-line log
 ├── week-1-summary.md        # weekly reflection
-└── README.md                # you're here
-```
+└── README.md                
 
 ---
 
@@ -52,10 +51,9 @@ data-analytics-journey/
 
 ## 🧠 How I use this repo
 
-1. Every day I write SQL queries on real datasets (`online_retail`, `sakila`).
+1. Every day I write SQL queries on real datasets (`online_retail`, `sakila`, More Soon).
 2. I update `progress-log.md` with one line.
 3. I commit and push – **green box appears**.
-4. Every weekend I write a weekly summary.
 
 ---
 
