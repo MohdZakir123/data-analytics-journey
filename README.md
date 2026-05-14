@@ -1,4 +1,4 @@
-# 📊 data-analytics-journey
+# 📊 Data-Analytics-Journey
 
 > Daily SQL + Python practice to become a data analyst.  
 > **Consistency > Intensity.** Green box everyday.
