@@ -6,4 +6,4 @@ Day 3: GROUP BY, COUNT, SUM, AVG, HAVING with online_retail. Ran 5 queries.
 
 Day 4: Learnt INNER JOIN, LEFT JOIN, GROUP BY with multiple tables. Ran 5 queries.
 
-Day 5:
+Day 5: Subqueries (WHERE, IN, FROM) and CTEs (WITH) on sakila. Ran 5 queries.
