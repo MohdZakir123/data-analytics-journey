@@ -14,12 +14,14 @@
 | 3 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
 | 4 | INNER JOIN, LEFT JOIN, RIGHT JOIN, Self JOIN | 5 | Multi-table joins, relationship mapping |
 | 5 | Subqueries (WHERE, IN, FROM) & CTEs (WITH) | 5 | Nested queries, derived tables, common table expressions |
+| 6 | Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG/LEAD, SUM OVER) | 5 | Running totals, ranking, previous/next row access |
 
-> ✅ **Total queries written till Day 5:** 25
+> ✅ **Total queries written till Day 6:** 30
 
 ---
 
 ## 📁 Folder Structure
+
 
 
 ```
@@ -30,11 +32,11 @@ data-analytics-journey/
 │ ├── day-3-joins.sql
 │ ├── day-4-joins.sql
 │ ├── day-5-subqueries-cte.sql
-│ └── ...
-├── progress-log.md # daily one-line log
-├── week-1-summary.md # weekly reflection
-└── README.md 
-
+│ ├── day-6-window-functions.sql
+│ └── day-7-
+├── progress-log.md
+├── week-1-summary.md
+└── README.md
 ```
 
 ---
