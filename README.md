@@ -33,7 +33,7 @@ data-analytics-journey/
 │ ├── day-4-joins.sql
 │ ├── day-5-subqueries-cte.sql
 │ ├── day-6-window-functions.sql
-│ └── day-7-
+│ └── day-7-cases.sql
 ├── progress-log.md
 ├── week-1-summary.md
 └── README.md
