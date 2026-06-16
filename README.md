@@ -12,38 +12,39 @@
 | 1 | SELECT, WHERE, AND/OR, IN, BETWEEN, LIKE | 5 | Filtering data, basic conditions |
 | 2 | GROUP BY, COUNT, AVG, SUM, HAVING | 5 | Aggregating data, grouping |
 | 3 | INNER JOIN, LEFT JOIN, Aggregates | 5 | Combining tables, finding missing data |
-| 4 | INNER JOIN, LEFT JOIN, RIGHT JOIN, Self JOIN | 5 | Multi-table joins, relationship mapping |
+| 4 | INNER JOIN, LEFT JOIN, RIGHT JOIN, Self JOIN | 5 | Multi‑table joins, relationship mapping |
 | 5 | Subqueries (WHERE, IN, FROM) & CTEs (WITH) | 5 | Nested queries, derived tables, common table expressions |
 | 6 | Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG/LEAD, SUM OVER) | 5 | Running totals, ranking, previous/next row access |
+| 7 | CASE Statements & Conditional Logic | 5 | Categorizing data, conditional aggregation, custom labels |
+| 8 | Date/Time & String Functions | 5 | Extracting date parts, formatting, string operations (CONCAT, SUBSTRING, UPPER, TRIM) |
 
-> ✅ **Total queries written till Day 6:** 30
+> ✅ **Total queries written till Day 8:** 40
 
 ---
 
 ## 📁 Folder Structure
 
-
-
-```
 data-analytics-journey/
 ├── sql-practice/
 │ ├── day-1-queries.sql
-│ ├── day-2-groupby.sql
-│ ├── day-3-joins.sql
+│ ├── day-2-filtering.sql
+│ ├── day-3-groupby.sql
 │ ├── day-4-joins.sql
 │ ├── day-5-subqueries-cte.sql
 │ ├── day-6-window-functions.sql
-│ └── day-7-cases.sql
+│ ├── day-7-case.sql
+│ ├── day-8-datetime-string.sql
+│ └── ...
 ├── progress-log.md
 ├── week-1-summary.md
 └── README.md
-```
+
 
 ---
 
 ## 🎯 Goal
 
-- Master SQL (joins, subqueries, window functions)
+- Master SQL (joins, subqueries, window functions, case, date/string functions)
 - Python for data analysis (pandas, matplotlib)
 - Build portfolio for **Data Analyst** roles
 - Fill career gap with **visible daily work**
