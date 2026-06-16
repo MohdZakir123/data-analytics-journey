@@ -67,4 +67,4 @@ data-analytics-journey/
 
 ---
 
-> 💬 *"Consistency is better than perfection. One query a day keeps the gap away."*
+> 💬 *"Consistency is better than perfection!. One query a day keeps the gap away."*
