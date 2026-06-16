@@ -1,7 +1,5 @@
--- =============================================
 -- DAY 8: DATE/TIME & STRING FUNCTIONS
 -- Dataset: online_retail
--- =============================================
 
 -- 1. Extract YEAR, MONTH, DAY from InvoiceDate
 SELECT 
@@ -31,6 +29,7 @@ FROM online_retail
 WHERE Description IS NOT NULL
 LIMIT 10;
 
+
 -- 4. CONCAT + DATE_FORMAT
 SELECT 
     InvoiceNo,
@@ -39,6 +38,7 @@ SELECT
     DATE_FORMAT(InvoiceDate, '%W, %M %d, %Y') AS full_date
 FROM online_retail
 LIMIT 10;
+
 
 -- 5. STR_TO_DATE + DATEDIFF + TRIM
 SELECT 
@@ -50,3 +50,4 @@ SELECT
     LENGTH(TRIM('   hello world   ')) AS trimmed_length
 FROM online_retail
 LIMIT 1;
+-- hello world 
