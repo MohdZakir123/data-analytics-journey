@@ -23,3 +23,4 @@
 - Continue writing daily SQL practice queries
 - Add Python/pandas practice next week
 - Start converting SQL learnings into portfolio-ready examples
+<!-- hello -->
