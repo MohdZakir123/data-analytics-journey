@@ -24,22 +24,22 @@
 
 ## 📁 Folder Structure
 
+```text
 data-analytics-journey/
 ├── sql-practice/
-│ ├── day-1-queries.sql
-│ ├── day-2-filtering.sql
-│ ├── day-3-groupby.sql
-│ ├── day-4-joins.sql
-│ ├── day-5-subqueries-cte.sql
-│ ├── day-6-window-functions.sql
-│ ├── day-7-case.sql
-│ ├── day-8-datetime-string.sql
-│ └── ...
+│   ├── day-1-queries.sql
+│   ├── day-2-filtering.sql
+│   ├── day-3-groupby.sql
+│   ├── day-4-joins.sql
+│   ├── day-5-subqueries-cte.sql
+│   ├── day-6-window-functions.sql
+│   ├── day-7-case.sql
+│   └── day-8-datetime-string.sql
 ├── progress-log.md
 ├── week-1-summary.md
 └── README.md
+```
 
-##
 ---
 
 ## 🎯 Goal
